@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python3 predict.py
+python predict.py
 ```
